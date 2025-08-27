@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: santiago Hernandez Morales
+    tagline: Ingeniero de sistemas.
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,26 +57,17 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Estudie ingenieria de sistemas en la universidad javeriana y realice un postgrado de diseño de software en oxford
+      Pertenezco a un grupo de investigacion de inteligencia artificial y diseño de software.
 education:
-    title: Education
+    title: Educacion
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+        university: University of Oxford
+        time: 2027 - 2031
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Durante mi estadia en oxford logre comprender metodologias optimas que permiten realizar software de forma sostenible a largo plazo, tambien
+          realice un proyecto sobre cadenas de ADN aplicado a un software.
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
