@@ -8,11 +8,13 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
+
 feature/nuevo-nombre
     name: Santiago Hernandez Morales
-    tagline: Full Stack Developer
+    tagline: ingeniero de sistemas
 
-main
+
+ main
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
